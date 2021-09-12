@@ -1,1 +1,0 @@
-{"success":true,"app_id":"52383:U4EVm6wt","result":{"component":"ScoreBoard.postScore","data":{"success":false,"error":{"message":"User is not logged in.","code":110},"parameters":{"id":10396,"value":-3}}}}
