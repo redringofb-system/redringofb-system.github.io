@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.025,
+			"portrait": "spong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NO NO NO NO FUCKFUCKFUCK THISCANTbEHAPPUH#JHU#DGDU#RH\\nHUJRU#DGHu34CDi9c3h289D&T*&@#T#*(&T#*&T#"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spongebob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You there!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spongebob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's MY mic you stole, you impostor!"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "spong",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "DONT FUCKING TOUCH ME HUEUEGEHGEHGGHHGHGH "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spongebob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just gimme it-"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "spong",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NOFUCKOFF"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "if yall dont shut the fuck up im just gonna duet you both"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spongebob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If it'll get me my mic back, then so be it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fucking fine"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*cough cough cough cough* new abrasive vocals by st4r *cough cough dies of lung cancer*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		}
+	]
+}

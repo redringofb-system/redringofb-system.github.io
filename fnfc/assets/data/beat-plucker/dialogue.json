@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "quest",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you know what sucks about me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wat"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "quest",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i only support the 3G network"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "haahhaahahahahahahahahahaahaahdhasd"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "quest",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "obama hamburger sussy balls lil mosey is white sussy balls"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "quest",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "enter dat prison 445 balls i like sussy things edepwfjawogjaeojgioerfkjaweofkewo "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "whats wrong with you jesus"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "quest",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHATS WRONG WITH YOU, YOU piece of SHIT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "jeez dont need to-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "quest",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "just shut the frick up"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "quest",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "atleast i didn't date a fatass, you dumb idiot"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what did you just say about my girlfriend?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "quest",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YES I SAID IT ABOUT YOUR  GIRLFRIEND"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i have something better than androids"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "iPhones"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "quest",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH\\nHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH\\nHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+		}
+	]
+}
