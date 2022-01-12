@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="3200.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="3200 up0000" x="0" y="0" width="191" height="500" pivotX="96" pivotY="303"/>
+	<SubTexture name="3200 up0001" x="191" y="0" width="191" height="500"/>
+	<SubTexture name="menu dudee0000" x="382" y="0" width="191" height="400" pivotX="96" pivotY="201"/>
+	<SubTexture name="menu dudee0001" x="382" y="0" width="191" height="400"/>
+	<SubTexture name="menu dudee0002" x="573" y="0" width="191" height="400"/>
+	<SubTexture name="menu dudee0003" x="764" y="0" width="191" height="400"/>
+	<SubTexture name="menu dudee0004" x="382" y="0" width="191" height="400"/>
+	<SubTexture name="menu dudee0005" x="382" y="0" width="191" height="400"/>
+	<SubTexture name="menu dudee0006" x="382" y="0" width="191" height="400"/>
+	<SubTexture name="menu dudee0007" x="382" y="0" width="191" height="400"/>
+	<SubTexture name="menu dudee0008" x="382" y="0" width="191" height="400"/>
+</TextureAtlas>

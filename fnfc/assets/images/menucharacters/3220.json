@@ -1,0 +1,10 @@
+{
+	"idle_anim": "3220 idle",
+	"image": "3220",
+	"position": [
+		-10,
+		-50
+	],
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}

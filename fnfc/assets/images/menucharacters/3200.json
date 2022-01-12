@@ -1,0 +1,10 @@
+{
+	"idle_anim": "menu dudee",
+	"image": "3200",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"confirm_anim": "3200 up"
+}

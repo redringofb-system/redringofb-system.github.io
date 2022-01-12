@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mint-fox.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="excited0000" x="0" y="0" width="591" height="849" pivotX="307.1" pivotY="496.05"/>
+	<SubTexture name="excited0001" x="0" y="0" width="591" height="849"/>
+	<SubTexture name="excited0002" x="591" y="0" width="591" height="849"/>
+	<SubTexture name="excited0003" x="591" y="0" width="591" height="849"/>
+	<SubTexture name="excited0004" x="1182" y="0" width="591" height="849"/>
+	<SubTexture name="excited stop0000" x="0" y="0" width="591" height="849"/>
+	<SubTexture name="normal0000" x="0" y="849" width="602" height="838" pivotX="306.95" pivotY="477.9"/>
+	<SubTexture name="normal0001" x="0" y="849" width="602" height="838"/>
+	<SubTexture name="normal0002" x="602" y="849" width="602" height="838"/>
+	<SubTexture name="normal0003" x="602" y="849" width="602" height="838"/>
+	<SubTexture name="normal0004" x="1204" y="849" width="602" height="838"/>
+	<SubTexture name="normal stop0000" x="0" y="849" width="602" height="838"/>
+</TextureAtlas>

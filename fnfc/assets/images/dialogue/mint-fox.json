@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		-120,
+		-100
+	],
+	"scale": 0.9,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-2,
+				-11
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "normal",
+			"idle_name": "normal stop"
+		},
+		{
+			"loop_offsets": [
+				5,
+				1
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				10,
+				-2
+			],
+			"loop_name": "excited",
+			"idle_name": "excited stop"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BF PISSED LOOP",
+			"idle_name": "BF PISSED0"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "BF SHOCK LOOP",
+			"idle_name": "BF SHOCK0"
+		}
+	],
+	"image": "mint-fox"
+}

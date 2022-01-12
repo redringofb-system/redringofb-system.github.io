@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="quest.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="normal0000" x="0" y="0" width="140" height="240" pivotX="71" pivotY="121"/>
+	<SubTexture name="talkin0000" x="140" y="0" width="140" height="288" pivotX="71" pivotY="166"/>
+	<SubTexture name="talkin0001" x="140" y="0" width="140" height="288"/>
+	<SubTexture name="talkin0002" x="280" y="0" width="140" height="288"/>
+	<SubTexture name="talkin0003" x="280" y="0" width="140" height="288"/>
+	<SubTexture name="talkin0004" x="420" y="0" width="140" height="288"/>
+</TextureAtlas>
